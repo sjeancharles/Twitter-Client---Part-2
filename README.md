@@ -51,7 +51,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Like all other projects, this one was very informative. I am learning more about how to use API.
 
 ## Open-source libraries used
 
